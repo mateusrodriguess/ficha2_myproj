@@ -1,1 +1,3 @@
 texto teste file1
+
+fiz uma alteração no teste 1
